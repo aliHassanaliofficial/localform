@@ -7,7 +7,8 @@
     "mongoose": "^8.6.1",
     "netlify": "^13.1.21",
     "netlify-cli": "^17.34.3",
-    "npm": "^10.8.3"
+    "npm": "^10.8.3",
+    "serverless-http": "^3.2.0"
   },
   "name": "localform",
   "version": "1.0.0",
